@@ -1,0 +1,1 @@
+This simple Python script allows users to convert their weight between kilograms and pounds. The user inputs their weight and specifies the unit (kilograms or pounds), and the script performs the conversion and displays the result.
